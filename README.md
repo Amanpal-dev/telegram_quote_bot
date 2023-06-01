@@ -1,6 +1,6 @@
 <h1>Telegram Bot</h1>
 This is a simple Telegram bot written in Python using the telebot library. The bot can perform two actions: replying with a specific message when receiving a certain command, and randomly selecting and replying with a quote from a text file.
-![image](https://github.com/dev-Yashwant/telegram_quote_bot/assets/131139103/774da1bd-d8db-4810-9f9c-390899a2fce6)
+![image](https://github.com/dev-Yashwant/telegram_quote_bot/assets/131139103/ea6b9877-ead0-457c-9282-c67fa958e11d)
 <h1>Prerequisites</h1>
 Python 3.x<br>
 telebot library (install via pip install pyTelegramBotAPI)

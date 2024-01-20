@@ -8,6 +8,7 @@ bot = telebot.TeleBot(Token)
 @bot.message_handler(['quote'])
 def start(msg):
     try:
+        print("hello aman")
         with open('quotes.txt', 'r') as file:
             lines = file.readlines()
             random_line = random.choice(lines)
